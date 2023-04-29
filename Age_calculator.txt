@@ -1,6 +1,6 @@
     * Get two inputs:
         your date of birth: AAA
-        Your mothers' date of birth: BBB
+        Your mothers' date of
 
         Output:
             * What is your current age : 
