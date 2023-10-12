@@ -3,7 +3,7 @@
         Your mothers' date of
 
         outtt:
-            *  is your current age : 
+            * What is your name : 
             * What is the age of your mother when you were born?
             * How many days left for your birthday?
             change the date?
