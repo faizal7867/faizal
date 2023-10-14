@@ -8,3 +8,13 @@
             * How many days left for your birthday?
             change the date?
             adding the date?
+    * Get two inputs:
+        your date of birth: AAA
+        Your mothers' date of
+
+        :
+            * What is your ok age : 
+            * What is the age of your mother when you were born?
+            * How many days left for your birthday?
+            change the date?
+            adding the date?
