@@ -1,5 +1,5 @@
     * Get two inputs:
-        your date of birth: AAA
+        your date of birth: AAww
         Your mothers' date of
 
         :
