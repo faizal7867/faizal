@@ -1,10 +1,10 @@
     * Get two inputs:
-        your date of birth: AAA
+        your date of birth:
         Your mothers' date of
 
         :
-            * What is your current age : 
+            * What is  ok hhhh : 
             * What is the age of your mother when you were born?
             * How many days left for your birthday?
-            change the date?
-            adding the date?
+            change the ?
+            adding the 
