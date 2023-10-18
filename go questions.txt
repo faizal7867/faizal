@@ -1,0 +1,8 @@
+what is golang?
+golang is a open source programming language it was developed by google 2007 it is statically and compiled  programming language and it used to build fast and repliable application features of golang it's supports a garbage collection and concurrency.
+
+what is go routines?
+it is lightweighted execution threas with size of 2 kb.
+In golang we have acehive the concurrency through go routines.
+Goroutine is used to run multiple function simulataneously.
+call the goroutine with go keyword before function call.
