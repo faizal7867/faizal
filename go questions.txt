@@ -1,8 +1,18 @@
-what is golang?
-golang is a open source programming language it was developed by google 2007 it is statically and compiled  programming language and it used to build fast and repliable application features of golang it's supports a garbage collection and concurrency.
+indexing
 
-what is go routines?
-it is lightweighted execution threas with size of 2 kb.
-In golang we have acehive the concurrency through go routines.
-Goroutine is used to run multiple function simulataneously.
-call the goroutine with go keyword before function call.
+yeah we introduce indexing in large data set tables 
+instead of query we use stroeproc 
+
+some juniors also work wih me they did query like select all records I've mention to retrevive only needed records from DB, 
+
+introdue goorm also
+
+
+channels:
+    -   channel in used to communicate between multiple go routines.
+    -   it is communication mechanism that enables to send the values one go routines to another go routines.
+    -   It has two types of channels buffered and unbuffered channels.
+    -   buffered channels mwe can store only certain number of values it has a capacity.
+    -   Unbuffered channel we can store only a single value.
+    -   For/select is used to receive the multiple go routines values.
+    -   we can create a channel using make funtion.
